@@ -1,4 +1,4 @@
-module gemini
+module github.com/ajm113/go-gemini
 
 go 1.16
 
